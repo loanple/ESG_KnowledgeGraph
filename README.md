@@ -24,9 +24,27 @@ The Knowledge Graph model can help find solutions to the research questions on h
 ##### Engagement and thought leadership
 - Identifying management communities in the market concerned about sustainable development goals while obtaining financial gains.
 
+Industry Outlook
+In-depth Company Details
+Comparisons between Companies
+ESG analysts look at the "big picture" for an investment idea or selection of stocks. 
+
+Our KG would help ESG Analysts to view companies on a high-level industry and sector basis. 
+
+KG could help in finding industry leaders using sector-specific filters based on regions, sectors, events, abnormality or sentiments to better understand the industry.
+Using the KG, an ESG analyst would be given the ability to quickly identify and analyze significant events for a company in any given time and invest accordingly.
+
+The KG would act as a one-stop summary visualization to show the events with positive or negative sentiment related to a company.
+
+KG can help in performing root-cause analysis for specific changes in a company’s ESG
+performance
+The KG can be utilized to compare multiple companies on the basis of common events or regions.
+
+A company’s stocks can be identified as profitable from a company’s ESG trends and aid in making a final investment decision.
+
+
 ## Dataset 
 The dataset offers intricate information regarding open news and blog sources to provide a thorough analysis on events happening today. The derived analytics to quantifies sentiment and relevance of an article to an entity by using NLP algorithms that denote key words. 
-
 
 ## Process
 1. Data Exploration
