@@ -14,7 +14,7 @@ The Knowledge Graph model can help find solutions to the research questions on h
 - Which kind of events have a major impact on the ESG vertical?
 
 ### Application Potential
-_(See Knowledge Graph POC for further information on usecase)_
+_(See ESG_KnowledgeGraph_UseCases for further information on usecase)_
 #### Asset Management
 - Review events and relation between entities that become popular over time to increase or decrease investment.
  
