@@ -38,10 +38,10 @@ In order to set up the data for the Knowledge Graph, nodes need to be manipulate
      - Events (e.g. Air Quality, Business Ethics, Supply Chain, Customer Privacy, etc)
      - Entity refers to an institution or company.
      - Sector refers to an indusry that an entity operates in.
-    _Node Sizes_ - reflects the extent of discussion associated with the node over the selected observation period. 
-    _Node Color_ - shows overall average sentiment on a given node (i.e. sector, entity, or event), mapped to a color schema that ranges from extremely negative to extremely positive.
-   _Node Shape_ delienated in 5 various shapes representing the different node types.
-   _Edge Width_ - the connection between nodes that represent proportional number of documents that are relevant between both. 
+    <br>_Node Sizes_ - reflects the extent of discussion associated with the node over the selected observation period. </br>
+    <br>_Node Color_ - shows overall average sentiment on a given node (i.e. sector, entity, or event), mapped to a color schema that ranges from extremely negative to extremely positive.</br>
+   <br>_Node Shape_ delienated in 5 various shapes representing the different node types.</br>
+   <br>_Edge Width_ - the connection between nodes that represent proportional number of documents that are relevant between both.</br>
 4. **Knowledge Graph Visualization**
 
 
