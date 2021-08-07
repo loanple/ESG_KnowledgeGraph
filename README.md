@@ -33,7 +33,7 @@ The dataset offers intricate information regarding open news and blog sources to
 1. **Data Exploration** _(See 1_Data Analysis.ipynb)_
 2. **Data Manipulation** _(See 2_KG_SetUp_DataManipulation.ipynb & 2_KG_Documentation.pdf for further information)_
 In order to set up the data for the Knowledge Graph, nodes need to be manipulated from the dataset while maintaining their connections via edges from the dataset. 
-     _Node Types_:
+     <br>_Node Types_:</br>
      - Event Groups (ESG) that each have various events under them
      - Events (e.g. Air Quality, Business Ethics, Supply Chain, Customer Privacy, etc)
      - Entity refers to an institution or company.
