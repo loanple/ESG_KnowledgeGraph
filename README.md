@@ -30,19 +30,19 @@ _(See ESG_KnowledgeGraph_UseCases for further information on usecase)_
 The dataset offers intricate information regarding open news and blog sources to provide a thorough analysis on events happening today. The derived analytics to quantifies sentiment and relevance of an article to an entity by using NLP algorithms that denote key words. 
 
 ## Process
-1. *Data Exploration*
-2. *Data Manipulation* _(See 2_2_KG_SetUp_DataManipulation.ipynb & 2_ESGKG_SetUp for further information)_
+1. **Data Exploration**
+2. **Data Manipulation** _(See 2_2_KG_SetUp_DataManipulation.ipynb & 2_ESGKG_SetUp for further information)_
 In order to set up the data for the Knowledge Graph, nodes need to be manipulated from the dataset while maintaining their connections via edges from the dataset. 
-*Node Types*:
-- Event Groups (ESG) that each have various events under them
-- Events (e.g. Air Quality, Business Ethics, Supply Chain, Customer Privacy, etc)
-- Entity refers to an institution or company.
-- Sector refers to an indusry that an entity operates in.
-*Node Sizes* - reflects the extent of discussion associated with the node over the selected observation period. 
-*Node Color* - shows overall average sentiment on a given node (i.e. sector, entity, or event), mapped to a color schema that ranges from extremely negative to extremely positive.
-*Node Shape* delienated in 5 various shapes representing the different node types.
-*Edge Width* - the connection between nodes that represent proportional number of documents that are relevant between both. 
-4. Knowledge Graph Visualization
+     *Node Types*:
+     - Event Groups (ESG) that each have various events under them
+     - Events (e.g. Air Quality, Business Ethics, Supply Chain, Customer Privacy, etc)
+     - Entity refers to an institution or company.
+     - Sector refers to an indusry that an entity operates in.
+    *Node Sizes* - reflects the extent of discussion associated with the node over the selected observation period. 
+    *Node Color* - shows overall average sentiment on a given node (i.e. sector, entity, or event), mapped to a color schema that ranges from extremely negative to extremely positive.
+   *Node Shape* delienated in 5 various shapes representing the different node types.
+   *Edge Width* - the connection between nodes that represent proportional number of documents that are relevant between both. 
+4. **Knowledge Graph Visualization**
 
 
 
