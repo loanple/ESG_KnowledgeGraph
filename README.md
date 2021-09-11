@@ -48,7 +48,8 @@ In order to set up the data for the Knowledge Graph, nodes need to be manipulate
 
     <br>_Edge Width_ - the connection between nodes that represent proportional number of documents that are relevant between both.</br>
 
-4. **Knowledge Graph Visualization**
+4. **Knowledge Graph Visualization** (See _3_)
+Using the NetworkX package to build the The Knowledge Graph database, where each node represented entities while edges represented the connection between the two in the dataset. The visualization is graphed using Plotly which is then exported to Dash, an open source platform, that loads interactive graphs.
 
 
 
